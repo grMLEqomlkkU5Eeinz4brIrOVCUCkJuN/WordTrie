@@ -2,6 +2,11 @@
 
 A fast and efficient word dictionary implementation using a Trie data structure. This package provides a robust solution for word lookups, spell checking, and autocomplete functionality.
 
+> **Note:** This package is not yet published to npm due to verification issues. You can install it directly from this repository using:
+> ```bash
+> npm install github:yourusername/word-trie
+> ```
+
 ## Installation
 
 ```bash
